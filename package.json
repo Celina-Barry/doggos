@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "dog-breeds": "^1.0.0",
-    "dog-names": "^2.1.0"
+    "dog-names": "^3.0.0"
   }
 }
